@@ -55,6 +55,3 @@ data/raw/*.zip
 .DS_Store
 Thumbs.db
 
-# Model files (optional - comment out if you want to track models)
-models/*.pkl
-models/*.joblib
