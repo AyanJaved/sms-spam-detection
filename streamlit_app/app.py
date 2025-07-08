@@ -345,11 +345,7 @@ def about_page():
     - `notebooks/`: Jupyter notebooks for analysis
     - `tests/`: Unit tests
     
-    ## 👨‍💻 Developer
-    
-    **Your Name**  
-    Email: your.email@example.com  
-    GitHub: [github.com/yourusername](https://github.com/yourusername)
+  
     
     ## 📄 License
     
